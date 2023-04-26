@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Jonathan Ruiz</h1>
-<h3 align="center">Germany</h3>
+<h3 align="center">Hamburg, Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathan-ruiz-hamburg&label=Profile%20views&color=0e75b6&style=flat" alt="jonathan-ruiz-hamburg" /> </p>
 
